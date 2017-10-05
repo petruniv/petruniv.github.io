@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  background: #000;
+  
+  position: fixed;
+  width: 100%;
+  top:0;
+  left:0;
+}
+.menu {
+  text-align: right;
+  
+}
+li {
+  display: inline-block;
+  padding: 10px
+}
+a {
+
+  font-size: 20px;
+  color: white;
+  padding:  11px;
+  text-decoration: none;
+  display: block;
+
+}
+.logo {
+  float: left;
+  margin-left: 90px;
+}
+img {
+  width: 300px;
+  height: 99px;
+}
+.text {
+  margin-top: 105px;
+}
+p {
+  color: #000;
+  font-size: 15px;
+}
