@@ -1,0 +1,25 @@
+body {
+  background-color: #BC8F8F;
+}
+  h1  {
+
+    text-align: center;
+
+    text-decoration: underline;
+    border: 2px solid #7FFFD4 
+  }
+  h2 {
+    text-align: center;
+    text-decoration: underline;
+
+  }
+  .text1 {
+    font-weight: bold;
+  }
+
+.text2 {
+  font-style: oblique;
+}
+    .text3 {
+      font-weight: bolder;
+    }
