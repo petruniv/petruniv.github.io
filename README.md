@@ -1,2 +1,2 @@
-# petruniv.github.io
+# Андрей Петрунив
 сайт
