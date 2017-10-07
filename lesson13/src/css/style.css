@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+ .box {
+  left: 50%;
+  top: 50%;
+  margin-top: -285px;
+  margin-left: -285px;
+  background-color: #ebf4f4;
+  height: 570px;
+  width: 570px;
+  position: absolute;
+  
+}
+.mini-box {
+
+  padding: 25px 15px;
+  position:absolute;
+  top: 20%;
+  left: 20%;
+  background-color:  white;
+  width: 320px;
+  height: 370px;
+  border: 1px line #cfdede;
+  
+}
+.form-h {
+  margin-top: 20px;
+}
+}
+.form-control{
+  margin-bottom: 12px;
+}
+.form-btn {
+  margin: 40px auto;
+}
