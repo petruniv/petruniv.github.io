@@ -15,6 +15,6 @@
 
 Модуль 5 
 
-[Практика 2](petruniv.github.io/myProject practic2/src/ "Описание")
+[Практика 2](https://petruniv.github.io/myProject%20practic2/src/ "Описание")
 
 
