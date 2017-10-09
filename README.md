@@ -19,7 +19,7 @@
 
 [Практика 2](https://petruniv.github.io/myProject%20practic2/src/ "Описание")
 
- [урок 15](https://petruniv.github.io/lesson12/ "Описание")
+ [урок 15](https://petruniv.github.io/урок15/ "Описание")
  
-[Практика 3](https://petruniv.github.io/урок15/ "Описание") 
+[Практика 3](https://petruniv.github.io/practic%203/src/ "Описание") 
 
