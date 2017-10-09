@@ -18,5 +18,7 @@
 [Практика 1](https://petruniv.github.io/practik1/src/ "Описание")
 
 [Практика 2](https://petruniv.github.io/myProject%20practic2/src/ "Описание")
-
+ 
+ 
+[Практика 3](https://petruniv.github.io/practic%203/src/ "Описание") 
 
