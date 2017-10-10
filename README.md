@@ -24,4 +24,6 @@
  [урок 15](https://petruniv.github.io/урок15/ "Описание")
  
 [Практика 3](https://petruniv.github.io/practic%203/src/ "Описание") 
-
+ 
+ 
+ [урок 16](https://petruniv.github.io/lesson16/src/ "Описание") 
