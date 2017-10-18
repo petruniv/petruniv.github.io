@@ -29,6 +29,8 @@
  
  [Практика 4](https://petruniv.github.io/practic4/src/ "Описание") 
  
+  [урок 17](https://petruniv.github.io/lesson17/src/ "Описание")
+ 
   [Практика 5](https://petruniv.github.io/practic5/src/ "Описание") 
   
   [урок 18 Акордеон](https://petruniv.github.io/acordeon/src/ "Описание")
