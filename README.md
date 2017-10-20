@@ -38,6 +38,8 @@
   
   [урок 18 Табы](https://petruniv.github.io/tabs/src/ "Описание")
   
+  [Практика 6](https://petruniv.github.io/pracric6/src/ "Описание") 
+  
   [урок 19 ](https://petruniv.github.io/lesson19/src/ "Описание")
   
 
