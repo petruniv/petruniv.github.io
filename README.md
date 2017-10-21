@@ -48,6 +48,8 @@
    
    [урок 21 ](https://petruniv.github.io/lesson21/ "Описание")
    
-    [Практика 9](https://petruniv.github.io/practic9/src/ "Описание") 
+    [Практика 9](https://petruniv.github.io/practic9/src/ "Описание")
+    
+    [урок 22 ](https://petruniv.github.io/lesson22/src/ "Описание")
   
 
