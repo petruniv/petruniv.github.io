@@ -47,5 +47,7 @@
    [Практика 8](https://petruniv.github.io/practic8/src/ "Описание") 
    
    [урок 21 ](https://petruniv.github.io/lesson21/ "Описание")
+   
+    [Практика 9](https://petruniv.github.io/practic9/src/ "Описание") 
   
 
