@@ -42,14 +42,19 @@
   
   [урок 19 ](https://petruniv.github.io/lesson19/src/ "Описание")
   
-   [урок 20 ](https://petruniv.github.io/lesson20/src/ "Описание")
+  [урок 20 ](https://petruniv.github.io/lesson20/src/ "Описание")
    
-   [Практика 8](https://petruniv.github.io/practic8/src/ "Описание") 
+  [Практика 8](https://petruniv.github.io/practic8/src/ "Описание") 
    
-   [урок 21 ](https://petruniv.github.io/lesson21/ "Описание")
-   
-    [Практика 9](https://petruniv.github.io/practic9/src/ "Описание")
-    
-    [урок 22 ](https://petruniv.github.io/lesson22/src/ "Описание")
+  [урок 21 ](https://petruniv.github.io/lesson21/ "Описание")
   
+  
+   [Практика 9](https://petruniv.github.io/practic9/src/ "Описание")
+    
+   [урок 22 ](https://petruniv.github.io/lesson22/src/ "Описание")
+   
+   [Практика 10](https://petruniv.github.io/practic10/src/ "Описание")
+  
+   
+   
 
