@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+.header {
+	background: white;
+	display: inline-block;
+	
+	/* position: fixed; */
+	width: 100%;
+	top:0;
+	left:0;
+}
+
+.menu {
+	text-align: center;
+	/* padding-left: 850px; */
+}
+li {
+	display: inline-block;
+	padding: 10px
+}
+a {
+    margin-bottom: 15px;
+	font-size: 15px;
+	color: #000;
+	padding:  11px;
+	text-decoration: none;
+	display: block;
+
+}
+.heder-logo {
+	margin-top: 35px;
+	float: left;
+	margin-left: 90px;
+}
+.menu_block {
+margin-left: 15px;
+}
+.ad {
+	padding: 15rem;
+	background: #ffffff url(../img/Placeholder.jpg) center no-repeat;
+}
+h1, p {
+	padding: 1rem;
+	color: white;
+}
+.btn {
+
+}
+
